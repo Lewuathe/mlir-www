@@ -1,0 +1,6 @@
+<map id="mlir::OpBuilder" name="mlir::OpBuilder">
+<area shape="rect" id="node3" href="$classmlir_1_1ImplicitLocOpBuilder.html" title="ImplictLocOpBuilder maintains a &#39;current location&#39;, allowing use of the create&lt;&gt; method without speci..." alt="" coords="5,155,176,181"/>
+<area shape="rect" id="node4" href="$classmlir_1_1PatternRewriter.html" title="This class coordinates the application of a pattern to the current function, providing a way to creat..." alt="" coords="201,155,343,181"/>
+<area shape="rect" id="node2" href="$classmlir_1_1Builder.html" title="This class is a general helper class for creating context&#45;global objects like types, attributes, and affine expressions. " alt="" coords="136,5,227,32"/>
+<area shape="rect" id="node5" href="$classmlir_1_1ConversionPatternRewriter.html" title="This class implements a pattern rewriter for use with ConversionPatterns. " alt="" coords="168,229,376,256"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="mlir::python::BaseContextObject" name="mlir::python::BaseContextObject">
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1PyAffineMap.html" title="mlir::python::PyAffineMap" alt="" coords="249,5,422,32"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1PyAttribute.html" title="Wrapper around the generic MlirAttribute. " alt="" coords="254,56,417,83"/>
+<area shape="rect" id="node4" href="$classmlir_1_1python_1_1PyDialectDescriptor.html" title="Wrapper around an MlirDialect. " alt="" coords="228,107,443,133"/>
+<area shape="rect" id="node5" href="$classmlir_1_1python_1_1PyDialects.html" title="User&#45;level object for accessing dialects with dotted syntax such as: ctx.dialect.std. " alt="" coords="254,157,417,184"/>
+<area shape="rect" id="node6" href="$classmlir_1_1python_1_1PyLocation.html" title="Wrapper around an MlirLocation. " alt="" coords="254,208,417,235"/>
+<area shape="rect" id="node7" href="$classmlir_1_1python_1_1PyModule.html" title="mlir::python::PyModule" alt="" coords="257,259,413,285"/>
+<area shape="rect" id="node8" href="$classmlir_1_1python_1_1PyOperation.html" title="mlir::python::PyOperation" alt="" coords="250,309,421,336"/>
+<area shape="rect" id="node9" href="$classmlir_1_1python_1_1PyType.html" title="Wrapper around the generic MlirType. " alt="" coords="264,360,407,387"/>
+</map>

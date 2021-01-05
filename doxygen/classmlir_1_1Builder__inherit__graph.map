@@ -1,0 +1,6 @@
+<map id="mlir::Builder" name="mlir::Builder">
+<area shape="rect" id="node2" href="$classmlir_1_1OpBuilder.html" title="This class helps build Operations. " alt="" coords="127,80,235,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1ImplicitLocOpBuilder.html" title="ImplictLocOpBuilder maintains a &#39;current location&#39;, allowing use of the create&lt;&gt; method without speci..." alt="" coords="5,155,176,181"/>
+<area shape="rect" id="node4" href="$classmlir_1_1PatternRewriter.html" title="This class coordinates the application of a pattern to the current function, providing a way to creat..." alt="" coords="201,155,343,181"/>
+<area shape="rect" id="node5" href="$classmlir_1_1ConversionPatternRewriter.html" title="This class implements a pattern rewriter for use with ConversionPatterns. " alt="" coords="168,229,376,256"/>
+</map>
